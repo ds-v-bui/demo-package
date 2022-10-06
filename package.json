@@ -1,0 +1,23 @@
+{
+  "name": "demo-package",
+  "version": "1.2.3",
+  "description": "This is demo package project",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ds-v-bui/demo-package.git"
+  },
+  "keywords": [
+    "demo",
+    "package"
+  ],
+  "author": "v-bui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ds-v-bui/demo-package/issues"
+  },
+  "homepage": "https://github.com/ds-v-bui/demo-package#readme"
+}
