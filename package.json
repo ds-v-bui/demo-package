@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ds-v-bui/demo-package/issues"
   },
-  "homepage": "https://github.com/ds-v-bui/demo-package#readme"
+  "homepage": "https://github.com/ds-v-bui/demo-package#readme",
+  "publishConfig": {
+    "@ds-v-bui:registry": "https://npm.pkg.github.com"
+ }
 }
