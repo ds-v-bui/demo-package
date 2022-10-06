@@ -1,5 +1,5 @@
 {
-  "name": "demo-package",
+  "name": "@ds-v-bui/demo-package",
   "version": "1.2.3",
   "description": "This is demo package project",
   "main": "index.js",
